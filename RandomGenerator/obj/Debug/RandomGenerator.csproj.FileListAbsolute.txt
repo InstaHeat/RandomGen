@@ -1,0 +1,14 @@
+D:\Temp\Code\RandomGenerator\RandomGenerator\bin\Debug\RandomGenerator.exe.config
+D:\Temp\Code\RandomGenerator\RandomGenerator\bin\Debug\RandomGenerator.exe
+D:\Temp\Code\RandomGenerator\RandomGenerator\bin\Debug\RandomGenerator.pdb
+D:\Temp\Code\RandomGenerator\RandomGenerator\obj\Debug\MainWindow.g.cs
+D:\Temp\Code\RandomGenerator\RandomGenerator\obj\Debug\App.g.cs
+D:\Temp\Code\RandomGenerator\RandomGenerator\obj\Debug\RandomGenerator_MarkupCompile.cache
+D:\Temp\Code\RandomGenerator\RandomGenerator\obj\Debug\RandomGenerator_MarkupCompile.lref
+D:\Temp\Code\RandomGenerator\RandomGenerator\obj\Debug\MainWindow.baml
+D:\Temp\Code\RandomGenerator\RandomGenerator\obj\Debug\RandomGenerator.g.resources
+D:\Temp\Code\RandomGenerator\RandomGenerator\obj\Debug\RandomGenerator.Properties.Resources.resources
+D:\Temp\Code\RandomGenerator\RandomGenerator\obj\Debug\RandomGenerator.csproj.GenerateResource.cache
+D:\Temp\Code\RandomGenerator\RandomGenerator\obj\Debug\RandomGenerator.csproj.CoreCompileInputs.cache
+D:\Temp\Code\RandomGenerator\RandomGenerator\obj\Debug\RandomGenerator.exe
+D:\Temp\Code\RandomGenerator\RandomGenerator\obj\Debug\RandomGenerator.pdb
